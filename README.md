@@ -1,3 +1,9 @@
+<h2 align="center">Demo</h2>
+
+<p align="center">
+  <img src="Demo.gif" alt="Demo">
+</p>
+
 # Giphy Search Application
 
 A modern, performant GIF search application built with Next.js 14, React, and the Giphy API. This application provides a seamless experience for searching and viewing GIFs with advanced features like caching, debounced search, and responsive design.
