@@ -84,10 +84,6 @@ The application implements a sophisticated caching mechanism to optimize perform
   - Configurable delay (default: 500ms)
   - Implementation in `src/hooks/useDebounce.js`
 
-- **API Rate Limiting**:
-  - Efficient handling of API requests
-  - Prevents hitting Giphy API rate limits
-  - Optimized for both development and production environments
 
 #### 3. Image Optimization
 
