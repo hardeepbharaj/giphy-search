@@ -1,8 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  env: {
-    GIPHY_API_KEY: '', // your API key
-  },
   images: {
     remotePatterns: [
       {

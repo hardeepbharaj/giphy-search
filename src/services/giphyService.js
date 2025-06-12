@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = process.env.GIPHY_API_KEY;
+const API_KEY = process.env.NEXT_PUBLIC_GIPHY_API_KEY;
 const BASE_URL = 'https://api.giphy.com/v1/gifs';
 
 const giphyApi = axios.create({
